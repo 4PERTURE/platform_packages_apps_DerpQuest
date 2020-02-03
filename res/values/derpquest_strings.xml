@@ -386,6 +386,8 @@
     <string name="qs_show_auto_brightness_summary">Show an auto brightness control button near the slider</string>
     <string name="qs_show_minmax_brightness_title">Min-Max icons</string>
     <string name="qs_show_minmax_brightness_summary">Show + - brightness control buttons near the slider</string>
+    <string name="brightness_slider_qs_unexpanded">MIUI style brightness slider (beta)</string>
+    <string name="brightness_slider_qs_unexpanded_summary">Shows brightness slider below qs panel</string>
 
     <!-- QS security footer -->
     <string name="qs_show_secure_title">Security footer</string>
